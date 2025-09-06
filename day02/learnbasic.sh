@@ -1,8 +1,13 @@
 #!/bin/bash
 
 
-# This is cooment for one line 
+# This is comment for one line 
 
+# Topic - Variables 
+# Aruguments 
+# Conditionals - if , else , elif
+# Loops - for , while
+# Functions 
 
 << comment
 anything written here will not excute 
