@@ -20,6 +20,9 @@ name="Mohit Prajapati"
 echo "Name is $name , and date is $(date)"
 commit
 
+echo "System name is $(uname) uptime is $(uptime -p)"
+
+<< commit
 # input from user 
 << commit
 echo "Enter the name"
@@ -27,12 +30,12 @@ echo "Enter the name"
 read username
 
 echo "Name is $username"
-commit
+
 
 # Input From user with Prompt
 
 read -p "Enter Username " username
 
 echo "Name is $username"
-
+commit
 
