@@ -1,6 +1,7 @@
 #!/bin/bash 
 
 # input from user with prompt
+
 read -p "enter the girl: " girl
 read -p "boy love % " love
 
