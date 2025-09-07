@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This is for  
+# This is for loop
 
 << task
 
